@@ -109,7 +109,7 @@ module.exports = {
     sidebar: {
       '/about/': sidebarAbout,
       '/administration/': sidebarAdmin,
-      '/upgrading/': sidebarUpgrading,
+      '/upgrading/':sidebarAdmin,
       '/manual/command-line-tools/': sidebarCommandLineTools,
       '/manual/': sidebarUserGuide,
       '/learning/': sidebarLearning,
