@@ -8,3 +8,5 @@
 /administration/security/storage-plugins/cyberark-storage.html /administration/key-storage/storage-plugins/cyberark-storage.html
 /administration/security/storage-plugins/thycotic-storage.html /administration/key-storage/storage-plugins/thycotic-storage.html
 /administration/security/storage-plugins/vault.html /administration/key-storage/storage-plugins/vault.html
+/introduction/introduction.html /about/introduction.html
+/introduction/getting-help.html /about/getting-help.html
